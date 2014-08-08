@@ -1,0 +1,14 @@
+name: RPChat
+version: 1.0
+main: me.baileypayne.rpchat.RPChat
+author: Bailey Payne
+description: Chat channel using distance
+commands:
+  RangedChat:
+    description: change chat range
+    usage: /<command>
+
+permissions:
+  RadiusChat.use:
+    description: permissions radiuschat
+    default: true
